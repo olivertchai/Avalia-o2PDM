@@ -5,5 +5,9 @@ O desenvolvimento de aplicações móveis exige cuidados semelhantes às aplica�
 
 #### 1 - Qual a diferença entre testes unitários e testes E2E (End to End) em aplicações mobile?
 
+Testes Unitários: Focam no código. Verificam se uma pequena parte isolada (uma função, um método ou uma classe) funciona corretamente, sem depender de outras partes do app.
+
+Testes E2E: Focam no usuário. Verificam se o fluxo completo do aplicativo (do login até a finalização de uma compra, por exemplo) funciona como esperado, simulando toques na tela e a integração real entre front-end, back-end e banco de dados.
+
 
 
